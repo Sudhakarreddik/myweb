@@ -1,0 +1,10 @@
+git clone https://github.com/vamsipro/myweb.git
+     ls
+     cd myweb/
+     touch vamsi
+     git add .
+     git commit -m 'vamsi'
+     git config --global user.email "vamsiprofessional1209@gmail.com"
+     git config --global user.name "vamsipro"
+     git commit -m 'vamsi'
+     git push origin master
