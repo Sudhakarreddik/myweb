@@ -1,10 +1,10 @@
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
-<title>Guru Registration Form</title>
+<title>Vamsi Technologies</title>
 </head>
 <body>
-<h1>Guru Register Form</h1>
-<form action="guru_register" method="post">
+<h1>Register Form</h1>
+<form action="vamsi_register" method="post">
 			<table style="with: 50%">
 				<tr>
 					<td>First Name</td>
