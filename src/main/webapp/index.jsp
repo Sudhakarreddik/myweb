@@ -3,7 +3,7 @@
 <title>Vamsi Technologies</title>
 </head>
 <body>
-<h1>Register Form</h1>
+<h1>Vamsi Technologies Job Application Form</h1>
 <form action="vamsi_register" method="post">
 			<table style="with: 50%">
 				<tr>
